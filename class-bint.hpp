@@ -7,6 +7,7 @@
 
 namespace Util {
 
+    
 const size_t MIN_CAPACITY = 2048;
 
 class Bint {
